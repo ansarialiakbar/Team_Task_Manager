@@ -177,10 +177,10 @@ Member           View projects/tasks, Update task status
 ![Projects Page](frontend/screenshots/projects.png)
 
 **Task Management**
-![Task Management](frontend/screenshots/mobile.png)
+![Task Management](frontend/screenshots/tasks.png)
 
 Responsive Mobile View
-![Mobile View](frontend\screenshots\mobile.png)
+![Mobile View](frontend/screenshots/mobile.png)
 
 
 ## 🚀 Deployment
