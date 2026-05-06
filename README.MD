@@ -190,7 +190,7 @@ Render.com
 
 ### Frontend
 
-Vercel 
+Netlify
 
 
 ## 👨‍💻 Author
