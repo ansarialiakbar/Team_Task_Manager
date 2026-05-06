@@ -4,7 +4,7 @@ A full-stack **Team Task Management** web application with role-based access con
 
 Built with **MERN Stack** + modern tools.
 
-![Project Screenshot](https://via.placeholder.com/800x400?text=TeamTask+Manager+Dashboard)
+
 
 ---
 
@@ -171,16 +171,16 @@ Member           View projects/tasks, Update task status
 ## 🖼️ Screenshots
 
 **Dashboard**
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](frontend\screenshots\dashboard.png)
 
 **Projects Page**
-![Projects Page](screenshots/projects.png)
+![Projects Page](frontend\screenshots\projects.png)
 
 **Task Management**
-![Task Management](screenshots/tasks.png)
+![Task Management](frontend\screenshots\tasks.png)
 
 Responsive Mobile View
-![Mobile View](screenshots/mobile.png)
+![Mobile View](frontend\screenshots\mobile.png)
 
 
 ## 🚀 Deployment
