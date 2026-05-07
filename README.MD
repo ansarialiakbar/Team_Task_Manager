@@ -185,12 +185,12 @@ Responsive Mobile View
 
 ### Backend
 
-Render.com 
+Render.com: https://team-task-manager-backend-k49c.onrender.com 
 
 
 ### Frontend
 
-Netlify
+Netlify: https://teamtaskmanagernetlifyapp.netlify.app/
 
 
 ## 👨‍💻 Author
